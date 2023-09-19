@@ -10,7 +10,7 @@ Trying to expand my horizons in the paths of engineering and tecnology, I'm curr
 
 I'm always open to critics and sugestions, so if you have any of those, feel free to give them
 
-Thank you for visiting my profile, hope you find something of interest/useful here!
+Thank you for visiting my profile, maybe you'll find something of interest/useful here!
 </div>
 <div style="display: inline_block" align="center">
 
