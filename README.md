@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B2FF7&width=435&lines=Ol%C3%A1+Mundo!;I'm+Quirlos!;Welcome+to+my+profile"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B2FF7&width=435&lines=Ol%C3%A1+Mundo!;I'm+Quirlos!;Welcome+to+my+profile"
 </p>
 <div style="display: inline_block" align="justify">
 I am a Control and Automation Engineering student at Unesp, 22 years old and learning the ways of programming.
@@ -21,5 +21,5 @@ Thank you for visiting my profile, hope you find something of interest/useful he
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center"> Statistics:
 <div style="display: inline_block" align="center">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Quirlos&show_icons=true&theme=monokai"/> 
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quirlos&layout=compact&langs_count=7&monokai"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quirlos&layout=compact&langs_count=7&theme=monokai"/>
 </div>
