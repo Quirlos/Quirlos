@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6D1EF7&center=true&width=435&lines=Ol%C3%A1+Mundo!;I'm+Quirlos!;Welcome+to+my+GitHub+Profile""
 </p>
 <div style="display: inline_block" align="justify">
-I am a Control and Automation Engineering student at Unesp, 22 years old and learning the ways of programming.
+I am a Control and Automation Engineering student at Unesp, 23 years old and learning the ways of programming.
 
 Trying to expand my horizons in the paths of engineering and tecnology, I'm currently learning many different languages and documenting them in this GitHub profile.
 
